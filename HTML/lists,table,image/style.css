@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(20, 47, 67);
+    
+    color: aliceblue;
+}
+td{
+    border: 2px solid black;
+}
+th{
+    border: 2px solid black;
+}
+caption{
+    border: 2px solid black;
+}
